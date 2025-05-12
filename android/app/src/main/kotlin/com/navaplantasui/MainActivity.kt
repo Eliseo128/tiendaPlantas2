@@ -1,0 +1,5 @@
+package com.navaplantasui
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
